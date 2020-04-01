@@ -1,0 +1,14 @@
+{
+"companyName": "Haru Otani",
+"productName": "Lodge Escape",
+"dataUrl": "WebGL_3.data.unityweb",
+"wasmCodeUrl": "WebGL_3.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL_3.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WebGL_3.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
